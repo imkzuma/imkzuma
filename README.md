@@ -1,6 +1,6 @@
 <h1 align = 'center'>Hi Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> <br></h1>
 <div align = 'left' >
-    <img src = 'https://github.com/imkzuma/imkzuma.github.io/blob/gh-pages/static/media/abstract-me.9c395b7fe378d03561d0.png' 
+    <img src = 'https://github.com/imkzuma/imkzuma/blob/main/img/img.png' 
          width = '50%' align = 'left' alt = 'joni'>
     <h2>About Me</h2>
     <p> My Name is Gung Joni , u can call me Krisna. </p> 
