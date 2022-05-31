@@ -1,7 +1,7 @@
 <h1 align = 'center'>Hi Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> <br></h1>
 <div align = 'left' >
     <img src = 'https://github.com/imkzuma/imkzuma.github.io/blob/gh-pages/static/media/abstract-me.9c395b7fe378d03561d0.png' 
-         width = '50%' align = 'left' >
+         width = '50%' align = 'left' alt = 'joni'>
     <h1>About Me</h1>
     <p> My Name is Gung Joni , u can call me Krisna. </p> 
     <p> Im interest in Web and Mobile Developement. </p>
