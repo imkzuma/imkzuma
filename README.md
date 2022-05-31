@@ -2,23 +2,23 @@
 <div align = 'left' >
     <img src = 'https://github.com/imkzuma/imkzuma.github.io/blob/gh-pages/static/media/abstract-me.9c395b7fe378d03561d0.png' 
          width = '50%' align = 'left' alt = 'joni'>
-    <h1>About Me</h1>
+    <h2>About Me</h2>
     <p> My Name is Gung Joni , u can call me Krisna. </p> 
     <p> Im interest in Web and Mobile Developement. </p>
     <p> Im a Computer Science currently studying at Udayana University. </p>
 </div>
 
-# Currently Learning
+## Currently Learning
 
-## Back-End
+### Back-End
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## Front End
+### Front End
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## IDE's
+### IDE's
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
