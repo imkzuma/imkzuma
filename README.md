@@ -8,7 +8,7 @@
     <p> Im a Computer Science currently studying at Udayana University. </p>
 </div>
 
-## Currently Learning
+### Currently Learning
 
 ### Front End
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
