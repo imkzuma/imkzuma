@@ -1,7 +1,7 @@
 <h1 align = 'center'>Hi Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> <br></h1>
 <div align = 'left'>
     <h2>About Me</h2>
-    <p> My Name is Gung Joni , u can call me Krisna. </p> 
+    <p> My Name is Krisna. </p> 
     <p> Im interest in Front End Developer. </p>
     <p> Im a Computer Science currently studying at Udayana University. </p>
 </div>
